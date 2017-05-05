@@ -30,3 +30,23 @@ Also, worked on that pluralsight React course and it's going well. My Reac boile
 [React lessons -- made buttons](https://github.com/Cyclokitty/react_lessons)
 
 [algos](https://github.com/Cyclokitty/fccAlgos/tree/master/intermediateAlgos)
+
+# Day 4: May 5, 2017
+
+**Today's Progress:**
+
+More algos. They went really well. I need to learn more about data structures to help me with the longer, more complicated and data heavy algos. I began some data structures work: stacks. Queues are next.
+
+Did some work on the react course. Finished my buttons. And then set up the next one about making Github cards. I've decided to go with a Toronto Blue Jays colour palette for this project. Looks nice so far.
+
+Going to read the Facebook React docs after dinner. Mostly about props and parent/child components.
+
+**Links to work:**
+
+[React lessons -- made buttons](https://github.com/Cyclokitty/react_lessons)
+
+[algos](https://github.com/Cyclokitty/fccAlgos/tree/master/intermediateAlgos)
+
+[data structues](https://github.com/Cyclokitty/advanced-js/tree/master/dataStructures/tutsPlus)
+
+[React Github Cards](https://github.com/Cyclokitty/githubCards)
