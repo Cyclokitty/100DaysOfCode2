@@ -50,3 +50,29 @@ Going to read the Facebook React docs after dinner. Mostly about props and paren
 [data structues](https://github.com/Cyclokitty/advanced-js/tree/master/dataStructures/tutsPlus)
 
 [React Github Cards](https://github.com/Cyclokitty/githubCards)
+
+# Day 5: May 6, 2017
+
+**Today's Progress:**
+
+It was a miserable day for intermediate algos. It's like all my brains left for the day.
+
+Maybe I'll have better luck with React today...
+
+**Links to work:**
+
+[algos](https://github.com/Cyclokitty/fccAlgos/tree/master/intermediateAlgos)
+
+# Day 6: May 7, 2017
+
+**Today's Progress:**
+
+I did much better on algos today. I still need more work on summing up a primes. And what primes are.
+
+Also, React course is going very well. I hard coded a list of github account info and displayed in cards in a div. Tomorrow I think we're going to use the actual api and using an input form to request github account users.
+
+**Links to work:**
+
+[algos](https://github.com/Cyclokitty/fccAlgos/tree/master/intermediateAlgos)
+
+[React Github Cards](https://github.com/Cyclokitty/githubCards)
