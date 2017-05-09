@@ -76,3 +76,13 @@ Also, React course is going very well. I hard coded a list of github account inf
 [algos](https://github.com/Cyclokitty/fccAlgos/tree/master/intermediateAlgos)
 
 [React Github Cards](https://github.com/Cyclokitty/githubCards)
+
+# Day 7: May 8, 2017
+
+**Today's Progress:**
+
+Worked on functional programming and a bit on React.
+
+**Links to work:**
+
+[React Github Cards](https://github.com/Cyclokitty/githubCards)
