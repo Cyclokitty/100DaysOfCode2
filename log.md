@@ -86,3 +86,13 @@ Worked on functional programming and a bit on React.
 **Links to work:**
 
 [React Github Cards](https://github.com/Cyclokitty/githubCards)
+
+# Day 8: May 9, 2017
+
+**Today's Progress:**
+
+Good Day! I finished a couple of algos and in particular the Caesar's Cipher! It took some fiddling but I got it!
+
+**Links to work:**
+
+[algos](https://github.com/Cyclokitty/fccAlgos/tree/master/intermediateAlgos)
