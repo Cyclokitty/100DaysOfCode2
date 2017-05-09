@@ -93,6 +93,10 @@ Worked on functional programming and a bit on React.
 
 Good Day! I finished a couple of algos and in particular the Caesar's Cipher! It took some fiddling but I got it!
 
+Since I learned a good amount of onClick handlers and etc in React, I'm thinking of using React to upgrade my [Scarborough Fare restaurant](https://cyclokitty.github.io/ScarboroughFare/) website.
+
 **Links to work:**
 
 [algos](https://github.com/Cyclokitty/fccAlgos/tree/master/intermediateAlgos)
+
+[new Scarborough Fare](https://github.com/Cyclokitty/ScarboFareResto)
