@@ -100,3 +100,25 @@ Since I learned a good amount of onClick handlers and etc in React, I'm thinking
 [algos](https://github.com/Cyclokitty/fccAlgos/tree/master/intermediateAlgos)
 
 [new Scarborough Fare](https://github.com/Cyclokitty/ScarboFareResto)
+
+# Day 9: May 13, 2017
+
+**Today's Progress:**
+
+Took a few days off for my brain to rest a bit.
+
+Then, I worked on Reactifying my Scarborogh Fare page. So far, so good!
+
+**Links to work:**
+
+[algos](https://github.com/Cyclokitty/fccAlgos/tree/master/intermediateAlgos)
+
+[new Scarborough Fare](https://github.com/Cyclokitty/ScarboFareResto)
+
+# Day 10: May 14, 2017
+
+Short day because it is Sunday. But I did complete one of the advanced Algos and I'm rather thrilled with myself! Yeah, me!
+
+**Links to work:**
+
+[algos](https://github.com/Cyclokitty/fccAlgos/tree/master/advancedAlgos)
