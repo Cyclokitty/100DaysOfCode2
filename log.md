@@ -122,3 +122,15 @@ Short day because it is Sunday. But I did complete one of the advanced Algos and
 **Links to work:**
 
 [algos](https://github.com/Cyclokitty/fccAlgos/tree/master/advancedAlgos)
+
+# Day 11: May 15, 2017
+
+In my journey to improve my programming skills, I concentrated on algorithms.
+
+I found a new algorithm challenge book called 'Coding Dojo' and it's pretty extensive. Even teaching code structure and Big O Notation. Just what I was looking for!
+
+I completed chapter 1 fundamentals challenges. Glad to say they were not hard to do.
+
+**Links To Work:**
+
+[coding dojo](https://github.com/Cyclokitty/codingDojo)
