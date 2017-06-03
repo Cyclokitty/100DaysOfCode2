@@ -134,3 +134,13 @@ I completed chapter 1 fundamentals challenges. Glad to say they were not hard to
 **Links To Work:**
 
 [coding dojo](https://github.com/Cyclokitty/codingDojo)
+
+## Took some time off for some R+R. Then forgot to log my work. It was mostly algos.
+
+# Day 15: June 2, 2017
+
+A few days ago I found johnny-five.io -- a library that lets you program Arduinos and other boards with javascript! How fun!
+
+So, I picked up some more bits and pieces, and my Arduino kit and learned how to program leds, rgb leds, buzzers, and servos.
+
+Today, I made a cute little rolling robot. It was very easy and loads of fun. Next, more studying of the constructors in johnny-five and build some additions to my robot.
