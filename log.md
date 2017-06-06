@@ -150,3 +150,11 @@ Today, I made a cute little rolling robot. It was very easy and loads of fun. Ne
 Back to work! Spent my study time today working some more on data structures. Reminded myself what Stacks and Queues are and how to make a basic stack function and queue function.
 
 Then, started in on linked lists with singly-linked list. More reading and writing tonight!
+
+#day 17: June 6, 2017
+
+I did more work on singly-linked lists. I'm figuring out how to write the add and search and remove methods to the object. I get lost in the currentNode and currentNode.next every time. I have a lousy sense of direction. Must keep going!
+
+Also, thought about what other languages I should begin. Definitely Python. I love my Raspberry Pi and I'm curious to see how backend web dev works with Django and Python. As well, as fun as it is to run my Arduinos with JavaScript, I think some C++ is in order. Then Zac Cassini in FCC gitter chat said Pharo/Smalltalk is quite good for robotics. A quick google search found me a nice tut!
+
+I have to sit myself down and not stray over to my robotics table. I really want to solder pins on those knock off arduinos!! Must do my theory work! 
