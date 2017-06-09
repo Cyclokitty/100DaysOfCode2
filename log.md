@@ -175,7 +175,6 @@ Here's a smidge:
 // factory function example
 const dog = () => {
   const sound = 'woof';
-  const pooped = false;
   return {
     talk: () => {
       return sound;
