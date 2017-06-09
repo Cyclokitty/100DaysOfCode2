@@ -172,35 +172,39 @@ Then I read some more theory and some how that led to the differences between ob
 Here's a smidge:
 
 ```
+
 // factory function example
-const dog = () => {
+const dog = (name) => {
   const sound = 'woof';
+  const pooped = false;
   return {
     talk: () => {
       return sound;
     },
     poop: (bool) => {
       if (bool === true) {
-        return 'dog has pooped!';
+        return `${name} had a great poop!`;
       } else if (bool === false) {
-        return 'dog has not pooped.';
+        return `${name} has not pooped :(`;
       } else if (bool !== true || bool !== false) {
         return null;
       }
    },
    play: (game) => {
-     return `doggie wants to play ${game}`;
+     return `${name} wants to play ${game}`;
    },
    eat: (food) => {
-     return `time to eat ${food} for dinner`;
+     return `${name}, time to eat ${food} for dinner`;
    }
   };
 };
 
-const barker = dog();
+const barker = dog("Barker");
 barker.talk();
 barker.poop(true);
 barker.play('fetch');
+barker.eat('yummy kibble');
+barker.play('tug of war');
 
 ```
 
