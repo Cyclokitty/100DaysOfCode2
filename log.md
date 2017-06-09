@@ -157,4 +157,52 @@ I did more work on singly-linked lists. I'm figuring out how to write the add an
 
 Also, thought about what other languages I should begin. Definitely Python. I love my Raspberry Pi and I'm curious to see how backend web dev works with Django and Python. As well, as fun as it is to run my Arduinos with JavaScript, I think some C++ is in order. Then Zac Cassini in FCC gitter chat said Pharo/Smalltalk is quite good for robotics. A quick google search found me a nice tut!
 
-I have to sit myself down and not stray over to my robotics table. I really want to solder pins on those knock off arduinos!! Must do my theory work! 
+I have to sit myself down and not stray over to my robotics table. I really want to solder pins on those knock off arduinos!! Must do my theory work!
+
+# Day 18: June 8, 2017
+
+Took a day off because of a birthday and because the backyard was finally dry enough and the weather warm enough for me to clean it up.
+
+Today, I did a good bit. First, I worked on my React project. Realized mid cup of coffee that I hadn't touched React in days. No, weeks. And since that was one of my primary goals this 100 days, I hopped to it!
+
+Not a lot of progress since I spent much of my time reviewing my code, my outline, and remembering what I was doing. tsk. But I did get a nav list item onClick to work! yay!
+
+Then I read some more theory and some how that led to the differences between objects and classes in JavaScript, which led to how classes in js aren't true OOP language style objects. More looking around brought me to factory functions. Which I have to say look and feel much nicer than using this.whatevs and .bind and .call and .apply.
+
+Here's a smidge:
+
+```
+// factory function example
+const dog = () => {
+  const sound = 'woof';
+  const pooped = false;
+  return {
+    talk: () => {
+      return sound;
+    },
+    poop: (bool) => {
+      if (bool === true) {
+        return 'dog has pooped!';
+      } else if (bool === false) {
+        return 'dog has not pooped.';
+      } else if (bool !== true || bool !== false) {
+        return null;
+      }
+   },
+   play: (game) => {
+     return `doggie wants to play ${game}`;
+   },
+   eat: (food) => {
+     return `time to eat ${food} for dinner`;
+   }
+  };
+};
+
+const barker = dog();
+barker.talk();
+barker.poop(true);
+barker.play('fetch');
+
+```
+
+Not a great example but worth practicing and working on some more.
