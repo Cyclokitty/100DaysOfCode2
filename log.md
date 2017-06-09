@@ -209,3 +209,9 @@ barker.play('tug of war');
 ```
 
 Not a great example but worth practicing and working on some more.
+
+# Day 19: June 9, 2017
+
+Today was Soldering Day! Finished the first part of my how-to-soldering kit and did a really crappy soldering together of a battery plug and male end of jumper wires. It does work, mind you. I checked with my voltage meter.
+
+More soldering tomorrow. At least I remembered to buy a lighter for the shrink wrap.
