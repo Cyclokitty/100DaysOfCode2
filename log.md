@@ -215,3 +215,9 @@ Not a great example but worth practicing and working on some more.
 Today was Soldering Day! Finished the first part of my how-to-soldering kit and did a really crappy soldering together of a battery plug and male end of jumper wires. It does work, mind you. I checked with my voltage meter.
 
 More soldering tomorrow. At least I remembered to buy a lighter for the shrink wrap.
+
+Completed 7 Bug-Ridden 13 algos from Coding Dojo algo book.
+
+They were fun.
+
+Still to do, read a bit about [memory leaks in javascript](https://auth0.com/blog/four-types-of-leaks-in-your-javascript-code-and-how-to-get-rid-of-them/).
