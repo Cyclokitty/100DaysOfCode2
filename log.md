@@ -221,3 +221,15 @@ Completed 7 Bug-Ridden 13 algos from Coding Dojo algo book.
 They were fun.
 
 Still to do, read a bit about [memory leaks in javascript](https://auth0.com/blog/four-types-of-leaks-in-your-javascript-code-and-how-to-get-rid-of-them/).
+
+# Day 20: June 10, 2017
+
+completed the rest of chapter 5's bug ridden 13 algos from coding dojo book.
+
+# Day 21: June 11, 2017
+
+Worked on recursion, memory leaks in js, and worked on a sensor in c++.
+
+Sensor works! Next time, get it working with javascript.
+
+The knock off arduino nano set up drove me spare. I thought it was a 328. Spent an hour trying to make it work until I said 'ah, heck. let me try selecting 128 instead'. Bzz bng bmp. It worked! I made an led light up. I then tried out the code for the proximity sensor and two leds. The tiny nano already has the pins attached (yeah!) and it is best if I set that on a tiny breadboard and have a 1/2 breadboard for the sensor, leds, resistors, and jumpers. Everything worked really well!
