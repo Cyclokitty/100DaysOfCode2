@@ -233,3 +233,9 @@ Worked on recursion, memory leaks in js, and worked on a sensor in c++.
 Sensor works! Next time, get it working with javascript.
 
 The knock off arduino nano set up drove me spare. I thought it was a 328. Spent an hour trying to make it work until I said 'ah, heck. let me try selecting 128 instead'. Bzz bng bmp. It worked! I made an led light up. I then tried out the code for the proximity sensor and two leds. The tiny nano already has the pins attached (yeah!) and it is best if I set that on a tiny breadboard and have a 1/2 breadboard for the sensor, leds, resistors, and jumpers. Everything worked really well!
+
+# Day 22: June 12, 2017
+
+A bit of a lazy day because I slept poorly last night. I rallied in the afternoon and explored recursion some more. One thing about recursion: it is really cool but not always the best solution.
+
+Then, I researched robots that can follow. Quite neat! It's the opposite of avoidance robots (planning to make) that skirt past obstructions. The follow bots actually tag along with you. Lots of ways to do. I'd like one that stays close to me with the proximity sensor. Other versions use RFIDs or remotes. Remotes are ok but not really a true follow bot. RFID comes close since it won't confuse the arrival of another person like with a proximity sensor. 
