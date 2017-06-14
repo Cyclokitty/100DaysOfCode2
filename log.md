@@ -238,4 +238,10 @@ The knock off arduino nano set up drove me spare. I thought it was a 328. Spent 
 
 A bit of a lazy day because I slept poorly last night. I rallied in the afternoon and explored recursion some more. One thing about recursion: it is really cool but not always the best solution.
 
-Then, I researched robots that can follow. Quite neat! It's the opposite of avoidance robots (planning to make) that skirt past obstructions. The follow bots actually tag along with you. Lots of ways to do. I'd like one that stays close to me with the proximity sensor. Other versions use RFIDs or remotes. Remotes are ok but not really a true follow bot. RFID comes close since it won't confuse the arrival of another person like with a proximity sensor. 
+Then, I researched robots that can follow. Quite neat! It's the opposite of avoidance robots (planning to make) that skirt past obstructions. The follow bots actually tag along with you. Lots of ways to do. I'd like one that stays close to me with the proximity sensor. Other versions use RFIDs or remotes. Remotes are ok but not really a true follow bot. RFID comes close since it won't confuse the arrival of another person like with a proximity sensor.
+
+# Day 23: June 13, 2017
+
+A bit of recursion but mostly it was about my robot.
+
+Played some more with arduino and johnny-five. And enjoyed watching some videos about a cooler that can follow someone and several nerf gun mods.
