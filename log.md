@@ -245,3 +245,17 @@ Then, I researched robots that can follow. Quite neat! It's the opposite of avoi
 A bit of recursion but mostly it was about my robot.
 
 Played some more with arduino and johnny-five. And enjoyed watching some videos about a cooler that can follow someone and several nerf gun mods.
+
+# Day 24: June 14, 2017
+
+So, I learned today never ever just pick some trim pot out of your electronics supply kit and willy-nilly shove it into your breadboard.
+
+I have a wrecked breadboard.
+
+I did eventually get the lcd screen working with johnny-five and node.
+
+I'm still not getting the right order and timing of commands. I'm making a magic8ball bot and the script immediately runs the button click before the button is ever clicked.
+
+Then I found out the little Nano's do not have enough memory to run the standard firmata to run johnny-five. sigh. I'll keep those for the khan academy c++ spider bot project as originally planned.
+
+Tomorrow, solder practice. I need to solder the header pins to the mkr1000. 
