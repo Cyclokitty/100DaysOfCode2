@@ -278,4 +278,10 @@ A reading day because I was out of town. I returned to Dr. Fisby's functional pr
 
 Then, read some Arudino programming. It's basically C++ modified a bit. I'm returning to CS50 this week because it teaches C which is close enough to C++. I like using js with my arduino but I can see myself going back and forth between js and C++ depending on the libraries I find for the aruduinos.
 
-Also decided to stick with the Arduino made arduinos. 
+Also decided to stick with the Arduino made arduinos.
+
+#Day 27, 2017: June 17, 2017
+
+Spent the afternoon napping and soldering. I did not nap duing the soldering. That would end badly. I finished the starter project -- it worked on the first attempt! My solders still look crummy but I ordered some printed circuit boards(pcb) for practicing. I should also order more wire and solder.
+
+Working on the hackerrank beginner challenges. They are easy so far. It's more a matter of figuring out how they want the answer because it gets re-formatted for testing.
