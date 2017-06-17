@@ -285,3 +285,5 @@ Also decided to stick with the Arduino made arduinos.
 Spent the afternoon napping and soldering. I did not nap duing the soldering. That would end badly. I finished the starter project -- it worked on the first attempt! My solders still look crummy but I ordered some printed circuit boards(pcb) for practicing. I should also order more wire and solder.
 
 Working on the hackerrank beginner challenges. They are easy so far. It's more a matter of figuring out how they want the answer because it gets re-formatted for testing.
+
+Read more of my data structures book. Need to try out the examples and make notes. 
