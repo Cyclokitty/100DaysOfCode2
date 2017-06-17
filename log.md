@@ -258,4 +258,24 @@ I'm still not getting the right order and timing of commands. I'm making a magic
 
 Then I found out the little Nano's do not have enough memory to run the standard firmata to run johnny-five. sigh. I'll keep those for the khan academy c++ spider bot project as originally planned.
 
-Tomorrow, solder practice. I need to solder the header pins to the mkr1000. 
+Tomorrow, solder practice. I need to solder the header pins to the mkr1000.
+
+#Day 25, 2017: June 15, 2017
+
+Completed my magic8ball arduino project! It was fun. My afternoon nap went too long so my robot will have to wait for Saturday. That's ok. I want to solder male jumpers to the end of the 4AA battery case.
+
+I organized some of my electronics parts. I'm getting quite the little collection and they need some organizing. I don't want to either lose some or keep buying the same parts. There's only X amount of money in the hobby kitty.
+
+...
+
+A kitty! I can make a robot kitty!! Nice!
+
+And for reasons that escape me, I signed up for the hackerrank contest for a free tshirt. I have a few days to cram much algorthim scripting into my skull.
+
+#Day 26, 2017: June 16, 2017
+
+A reading day because I was out of town. I returned to Dr. Fisby's functional programming book. I understand it more. Looking forward to trying out the examples in the book.
+
+Then, read some Arudino programming. It's basically C++ modified a bit. I'm returning to CS50 this week because it teaches C which is close enough to C++. I like using js with my arduino but I can see myself going back and forth between js and C++ depending on the libraries I find for the aruduinos.
+
+Also decided to stick with the Arduino made arduinos. 
