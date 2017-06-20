@@ -286,4 +286,10 @@ Spent the afternoon napping and soldering. I did not nap duing the soldering. Th
 
 Working on the hackerrank beginner challenges. They are easy so far. It's more a matter of figuring out how they want the answer because it gets re-formatted for testing.
 
-Read more of my data structures book. Need to try out the examples and make notes. 
+Read more of my data structures book. Need to try out the examples and make notes.
+
+# Day 28: June 20, 2017
+
+Took a couple of rest days to catch up on some socializing and house cleaning.
+
+Worked on my arduino uno and johnny-five. Figured out how to (more or less) get wire 8 leds and get them to turn on and then off in sequence. Still needs some polishing. Made a video of it. I need to start gathering these videos up and posting to a blog on my portfolio page.
