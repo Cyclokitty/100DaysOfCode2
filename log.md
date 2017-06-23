@@ -307,3 +307,9 @@ On the topic of React, I found in an article a React static site generator calle
 As of today, 377 people downloaded my cat-namer npm library! Neat! I should add some new names. Maybe some new method? Need to think about what.
 
 And now, to assemble my walking robot! Once I have it working, I want to make another that can avoid obstacles using a simple antenna and an extra motor to pivot it away from the obstacle. Even better, I will decorate it to look like [Snidely Whiplash](https://media.giphy.com/media/q6DIGejB7Dypi/giphy.gif).
+
+Ok, foam-core for robot material --- BAD, BAD, BAD, BAD! Don't do it.
+
+Alrighty, back to the plans.
+
+I need more cardboard.
