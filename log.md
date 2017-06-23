@@ -293,3 +293,17 @@ Read more of my data structures book. Need to try out the examples and make note
 Took a couple of rest days to catch up on some socializing and house cleaning.
 
 Worked on my arduino uno and johnny-five. Figured out how to (more or less) get wire 8 leds and get them to turn on and then off in sequence. Still needs some polishing. Made a video of it. I need to start gathering these videos up and posting to a blog on my portfolio page.
+
+#Day 29: June 23, 2017
+
+Ok, slow week. Mostly I played with my arduino. Then found some neat tut videos on how to make walking robots using small motors and cardboard/popsicle sticks. Amazing how addictive these are. I'm working on my first walking robot today out of foam-core. I hope the foam-core isn't too light. We shall soon find out.
+
+Then, I completed a neat algo: if a-z has a scoring of 1-26, find the word with the highest score in a sentence. Yeah, got it! And it was fun.
+
+Later today, I'm working on my React project, Scarborough Fare restaurant. I've neglected it. I'm committing to a week of non-stop React! Ok, not non-stop but definitely an hour each day.
+
+On the topic of React, I found in an article a React static site generator called Gatsby.js. I'm gonna play with it over the next few days. Looks like a good project.
+
+As of today, 377 people downloaded my cat-namer npm library! Neat! I should add some new names. Maybe some new method? Need to think about what.
+
+And now, to assemble my walking robot! Once I have it working, I want to make another that can avoid obstacles using a simple antenna and an extra motor to pivot it away from the obstacle. Even better, I will decorate it to look like [Snidely Whiplash](https://media.giphy.com/media/q6DIGejB7Dypi/giphy.gif).
