@@ -313,3 +313,15 @@ Ok, foam-core for robot material --- BAD, BAD, BAD, BAD! Don't do it.
 Alrighty, back to the plans.
 
 I need more cardboard.
+
+#Day 30: June 24, 2017
+
+Bought some extra supplies for the bot:
+  * super glue
+  * two sizes of kebab sticks
+
+Found a couple of sheets of cardboard.
+
+Everything was going well. I drew out the pieces. Cut them out. Began gluing. Then, started assembling the body.
+
+Then I smashed my bad word finger in between the scissors grips while trimming the kebab sticks. Bad move. I now have a bruised nail bed. I decided to put things away.
