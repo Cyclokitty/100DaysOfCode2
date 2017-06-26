@@ -344,3 +344,11 @@ Also, I can get the motor rolling but the leds are too dim or they don't work. I
 Still, loads of fun!!
 
 I also worked on higher order functions for functional programming. I like it!
+
+# Day 32: June 26, 2017
+
+Worked some more on functional programming. Learned how to make a concatAll() method. Although mine just used the spread (...arr).
+
+Link to work: [functional programming](https://github.com/Cyclokitty/advanced-js/tree/master/functionalJs.js)
+
+Also, started [my 100 Days of C++](https://github.com/Cyclokitty/100DaysCplusplus/tree/master/day1). Anything for my arduino creations!
