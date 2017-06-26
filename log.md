@@ -325,3 +325,20 @@ Found a couple of sheets of cardboard.
 Everything was going well. I drew out the pieces. Cut them out. Began gluing. Then, started assembling the body.
 
 Then I smashed my bad word finger in between the scissors grips while trimming the kebab sticks. Bad move. I now have a bruised nail bed. I decided to put things away.
+
+#Day 31: June 25, 2017
+
+Always respect glue. Especially super glue.
+It is truly super.
+  * super fast
+  * super strong
+  * super sticky
+  * super easy to drip all over your hands
+
+sigh
+
+I did a lot but still need to do more for my walking robot. I need to put the legs onto the body but I was a bit wary of snipping the kebab sticks off when I was tired. I'll do that tomorrow.
+
+Also, I can get the motor rolling but the leds are too dim or they don't work. I'll need to look at my circuit tomorrow with fresh eyes.
+
+Still, loads of fun!!
