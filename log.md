@@ -342,3 +342,5 @@ I did a lot but still need to do more for my walking robot. I need to put the le
 Also, I can get the motor rolling but the leds are too dim or they don't work. I'll need to look at my circuit tomorrow with fresh eyes.
 
 Still, loads of fun!!
+
+I also worked on higher order functions for functional programming. I like it!
