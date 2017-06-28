@@ -364,3 +364,7 @@ And a few people really liked my 8 sequence flashing leds! I offered a bit of bu
 I need to order or go buy some more supplies. Definitely solder and a brass sponge. I'm also thinking of getting a bag of little plastic gears. I can make a smaller, tighter walking robot. Preferably not out of cardboard. Geez, all that cutting and gluing.
 
 Skipped C++ today. I did some reading but I ran out of time. Doubling the C++ tomorrow!
+
+#Day 34: June 28, 2017
+
+Worked some more on an advanced fcc algo: [change in cash drawer](https://github.com/Cyclokitty/fccAlgos/blob/master/advancedAlgos/checkCashRegister.js).
