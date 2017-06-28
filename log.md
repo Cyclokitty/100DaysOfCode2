@@ -355,7 +355,9 @@ Also, started [my 100 Days of C++](https://github.com/Cyclokitty/100DaysCplusplu
 
 #Day 33: June 27, 2017
 
-Fun day of [practicing recursion](https://github.com/Cyclokitty/advanced-js/tree/master/dataStructures/recursion)
+Fun day of [practicing recursion](https://github.com/Cyclokitty/advanced-js/tree/master/dataStructures/recursion).
+
+Then worked on an advanced fcc algo: [change in cash drawer](https://github.com/Cyclokitty/fccAlgos/blob/master/advancedAlgos/checkCashRegister.js).
 
 And a few people really liked my 8 sequence flashing leds! I offered a bit of buying advice and confirmed using johnny-five.
 
