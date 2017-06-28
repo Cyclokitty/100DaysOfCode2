@@ -352,3 +352,13 @@ Worked some more on functional programming. Learned how to make a concatAll() me
 Link to work: [functional programming](https://github.com/Cyclokitty/advanced-js/tree/master/functionalJs.js)
 
 Also, started [my 100 Days of C++](https://github.com/Cyclokitty/100DaysCplusplus/tree/master/day1). Anything for my arduino creations!
+
+#Day 33: June 27, 2017
+
+Fun day of [practicing recursion](https://github.com/Cyclokitty/advanced-js/tree/master/dataStructures/recursion)
+
+And a few people really liked my 8 sequence flashing leds! I offered a bit of buying advice and confirmed using johnny-five.
+
+I need to order or go buy some more supplies. Definitely solder and a brass sponge. I'm also thinking of getting a bag of little plastic gears. I can make a smaller, tighter walking robot. Preferably not out of cardboard. Geez, all that cutting and gluing.
+
+Skipped C++ today. I did some reading but I ran out of time. Doubling the C++ tomorrow!
