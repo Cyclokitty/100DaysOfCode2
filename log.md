@@ -368,3 +368,9 @@ Skipped C++ today. I did some reading but I ran out of time. Doubling the C++ to
 #Day 34: June 28, 2017
 
 Worked some more on an advanced fcc algo: [change in cash drawer](https://github.com/Cyclokitty/fccAlgos/blob/master/advancedAlgos/checkCashRegister.js).
+
+# Day 35: June 29, 2017
+
+I found an interesting article about questions from frontend dev interviews. Looks good. I'm working on the concept questions and the coding algos. I completed the easy algos today.
+
+I'm thinking of coming up with a list of algos to run thru each day. Not the same ones all the time but a range that I can pick randomly. Maybe 10 easy, 3 mid, and 2 hard. Something like that.
