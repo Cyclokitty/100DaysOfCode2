@@ -378,3 +378,7 @@ I'm thinking of coming up with a list of algos to run thru each day. Not the sam
 # Day 36: July 1, 2017
 
 Worked on memoization, another fibonacci function, and some C++. Glued myself to my walking robot.
+
+# Day 37: July 2, 2017
+
+Worked some more on those interview questions -- debugging and coding/easy are done. They were easy, I'm glad to say. Worked on a couple of the coding/intermediate as well. 
