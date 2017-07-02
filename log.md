@@ -374,3 +374,7 @@ Worked some more on an advanced fcc algo: [change in cash drawer](https://github
 I found an interesting article about questions from frontend dev interviews. Looks good. I'm working on the concept questions and the coding algos. I completed the easy algos today.
 
 I'm thinking of coming up with a list of algos to run thru each day. Not the same ones all the time but a range that I can pick randomly. Maybe 10 easy, 3 mid, and 2 hard. Something like that.
+
+# Day 36: July 1, 2017
+
+Worked on memoization, another fibonacci function, and some C++. Glued myself to my walking robot.
