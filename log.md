@@ -381,4 +381,8 @@ Worked on memoization, another fibonacci function, and some C++. Glued myself to
 
 # Day 37: July 2, 2017
 
-Worked some more on those interview questions -- debugging and coding/easy are done. They were easy, I'm glad to say. Worked on a couple of the coding/intermediate as well. 
+Worked some more on those interview questions -- debugging and coding/easy are done. They were easy, I'm glad to say. Worked on a couple of the coding/intermediate as well.
+
+# Day 38: July 3, 2017
+
+Started working on a new frame for my walking robot. This time made from extra wide wood popsicle sticks. The cardboard frame was too wide and I bent the heck out of the legs. Whoops! 
