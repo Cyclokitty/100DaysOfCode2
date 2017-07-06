@@ -387,10 +387,12 @@ Worked some more on those interview questions -- debugging and coding/easy are d
 
 Started working on a new frame for my walking robot. This time made from extra wide wood popsicle sticks. The cardboard frame was too wide and I bent the heck out of the legs. Whoops!
 
-# Day 39: July 4, 2017
+# Day 39: July 5, 2017
 
 Took yesterday off because of my birthday! Had a great day even with no coding. Sometimes you must let your brain breathe.
 
 Today, I worked on a couple of concept questions for the interview questions.
 
 I ordered more solder. It arrived same day! Amazing.
+
+Found a neat little function that creates a random hex color code. It's in the interesting folder here.
