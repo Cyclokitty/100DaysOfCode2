@@ -402,3 +402,7 @@ Found a neat little function that creates a random hex color code. It's in the i
 Decided I need a project I'll actually use. I tried out Electron because I'm going to make a dashboard app. At them moment I'm thinking todo, weather, and some kind of latest news displayer, or maybe Reddit.
 
 I followed a tut and made a countdown timer. Changed the text-shadow colour because the blue was nice but sunset orange is better!
+
+# Day 41: July 7, 2017
+
+More work learning Electron. I know how to make a menu for my dashboard project! 
