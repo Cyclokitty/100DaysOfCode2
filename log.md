@@ -405,4 +405,10 @@ I followed a tut and made a countdown timer. Changed the text-shadow colour beca
 
 # Day 41: July 7, 2017
 
-More work learning Electron. I know how to make a menu for my dashboard project! 
+More work learning Electron. I know how to make a menu for my dashboard project!
+
+# Day 42: July 8, 2017
+
+Cancelled robot building for the weekend because I'm enjoying Electron too much.
+
+I made a stupid counter. I think I'll change it to a fidget counter and use an icon instead of a button to increment. yeah, that's the ticket!
