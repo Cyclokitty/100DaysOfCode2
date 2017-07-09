@@ -412,3 +412,9 @@ More work learning Electron. I know how to make a menu for my dashboard project!
 Cancelled robot building for the weekend because I'm enjoying Electron too much.
 
 I made a stupid counter. I think I'll change it to a fidget counter and use an icon instead of a button to increment. yeah, that's the ticket!
+
+# Day 43: July 9, 2017
+
+And I made my fidget counter app work! yay! It's the silliest, most useless thing I've ever made -- and believe me that is saying something! Still, Electron is really cool.
+
+I also worked on a couple of algos, and that advanced checkCashRegister advanced algo. The checkCashRegister can give you change in the format in the user story but - big problem - I have to go back and if statement my life away because it will give you negative amounts of bills when you don't have enough bills. 
