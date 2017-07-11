@@ -417,4 +417,8 @@ I made a stupid counter. I think I'll change it to a fidget counter and use an i
 
 And I made my fidget counter app work! yay! It's the silliest, most useless thing I've ever made -- and believe me that is saying something! Still, Electron is really cool.
 
-I also worked on a couple of algos, and that advanced checkCashRegister advanced algo. The checkCashRegister can give you change in the format in the user story but - big problem - I have to go back and if statement my life away because it will give you negative amounts of bills when you don't have enough bills. 
+I also worked on a couple of algos, and that advanced checkCashRegister advanced algo. The checkCashRegister can give you change in the format in the user story but - big problem - I have to go back and if statement my life away because it will give you negative amounts of bills when you don't have enough bills.
+
+# Day 44: July 10, 2017
+
+Working on a css speed run. Need to work on my css and html! Also, worked on one of the interview questions intermediate algos. Deep object merging. Interesting!
