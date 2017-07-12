@@ -422,3 +422,11 @@ I also worked on a couple of algos, and that advanced checkCashRegister advanced
 # Day 44: July 10, 2017
 
 Working on a css speed run. Need to work on my css and html! Also, worked on one of the interview questions intermediate algos. Deep object merging. Interesting!
+
+# Day 45: July 11, 2017
+
+I finally finished the fidget counter app! It works! I packaged it and the ridiculous cat icon I made works too. Nice!
+
+Also worked on a bunch algos, and one of the concept questions: event loop which I understand now! Hurrray!!
+
+This was an excellent day!
