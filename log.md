@@ -437,4 +437,10 @@ Took yesterday off to visit my mom.
 
 Today, I refreshed my memory about basic React. Dedicating the next week to finishing the react Scarborough Fare resto page and revamping my portfolio with React!
 
-Also worked on a basic algo. One can always improve on one's algo writing. 
+Also worked on a basic algo. One can always improve on one's algo writing.
+
+# Day 47: July 14, 2017
+
+Received an email from Heroku that my FCC backend projects need updating. That reminded me that I wanted to transfer them to glitch.com because I want to save the big backend projects for Heroku.
+
+So, migrated files and updated files and adjusted stuff.
