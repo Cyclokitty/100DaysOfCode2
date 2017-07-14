@@ -430,3 +430,11 @@ I finally finished the fidget counter app! It works! I packaged it and the ridic
 Also worked on a bunch algos, and one of the concept questions: event loop which I understand now! Hurrray!!
 
 This was an excellent day!
+
+# Day 46: July 13, 2017
+
+Took yesterday off to visit my mom.
+
+Today, I refreshed my memory about basic React. Dedicating the next week to finishing the react Scarborough Fare resto page and revamping my portfolio with React!
+
+Also worked on a basic algo. One can always improve on one's algo writing. 
