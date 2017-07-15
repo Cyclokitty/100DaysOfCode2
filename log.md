@@ -444,3 +444,5 @@ Also worked on a basic algo. One can always improve on one's algo writing.
 Received an email from Heroku that my FCC backend projects need updating. That reminded me that I wanted to transfer them to glitch.com because I want to save the big backend projects for Heroku.
 
 So, migrated files and updated files and adjusted stuff.
+
+Worked on React. Doing the overdone Todo project. At least the patterns are making sense. 
