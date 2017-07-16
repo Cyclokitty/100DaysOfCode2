@@ -445,4 +445,8 @@ Received an email from Heroku that my FCC backend projects need updating. That r
 
 So, migrated files and updated files and adjusted stuff.
 
-Worked on React. Doing the overdone Todo project. At least the patterns are making sense. 
+Worked on React. Doing the overdone Todo project. At least the patterns are making sense.
+
+# Day 48: July 15, 2017
+
+Worked some more on the Todo App and I'm beginning to like React more. I understand why we .bind(this) the es6 events. yes, the fog is clearing! I'm adding a few interesting things tomorrow. In particular, a current weather report in the corner.
