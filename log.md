@@ -456,3 +456,7 @@ Worked some more on the Todo App and I'm beginning to like React more. I underst
 Finished the React Todo App! I still haven't added a section for current weather but it does retrieve any todos saved in local storage. Ok, time for a rest!
 
 [cyclokitty's todos](https://cyclokitty.github.io/todoapp/)
+
+# Day 50: July 17, 2017
+
+Worked on an algorithm. 
