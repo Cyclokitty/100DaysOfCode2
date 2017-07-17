@@ -450,3 +450,9 @@ Worked on React. Doing the overdone Todo project. At least the patterns are maki
 # Day 48: July 15, 2017
 
 Worked some more on the Todo App and I'm beginning to like React more. I understand why we .bind(this) the es6 events. yes, the fog is clearing! I'm adding a few interesting things tomorrow. In particular, a current weather report in the corner.
+
+# Day 49: July 16, 2017
+
+Finished the React Todo App! I still haven't added a section for current weather but it does retrieve any todos saved in local storage. Ok, time for a rest!
+
+[cyclokitty's todos](https://cyclokitty.github.io/todoapp/)
