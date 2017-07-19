@@ -487,3 +487,13 @@ Today's Adorable Algo:
   add();
 
 ```
+
+This is stylish:
+
+```
+
+var add = function (n) {
+return [...arguments].reduce((accum, item) => accum + item, 0);
+};
+
+```
