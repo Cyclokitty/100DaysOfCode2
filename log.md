@@ -459,4 +459,12 @@ Finished the React Todo App! I still haven't added a section for current weather
 
 # Day 50: July 17, 2017
 
-Worked on an algorithm. 
+Worked on an algorithm.
+
+Working on another weather react app.
+
+# Day 51: July 18,
+
+Worked some more on my weather react app. It works! Figuring out the two async axios calls for user location then weather report using the locaton was tricky but GOOGLE TO THE RESCUE! yeah, sorted it out with stylish async and await.
+
+All I have to do now is sort out the temp colour ranges and stylings. Will do that tomorrow.
