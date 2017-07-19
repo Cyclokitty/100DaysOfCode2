@@ -473,3 +473,17 @@ All I have to do now is sort out the temp colour ranges and stylings. Will do th
 # Day 52: July 19, 2017
 
 yes! [react weather app](https://cyclokitty.github.io/ckweather/) woo! The temp colours change depending on how cold, mild, or hot it is.
+
+Today's Adorable Algo:
+
+```
+  var add = function (n) {
+    var nums = Array.from(arguments);
+    return nums.reduce((accum, item) => {
+      return accum + item;
+    }, 0);
+  };
+
+  add();
+
+```
