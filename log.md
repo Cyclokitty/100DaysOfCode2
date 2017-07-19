@@ -497,3 +497,11 @@ return [...arguments].reduce((accum, item) => accum + item, 0);
 };
 
 ```
+
+Then there is the rest operator which is rather swish and sexy:
+
+```
+
+var add = (...n) => n.reduce((accum, item) => accum + item, 0);
+
+```
