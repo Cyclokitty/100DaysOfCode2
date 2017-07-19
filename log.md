@@ -468,3 +468,8 @@ Working on another weather react app.
 Worked some more on my weather react app. It works! Figuring out the two async axios calls for user location then weather report using the locaton was tricky but GOOGLE TO THE RESCUE! yeah, sorted it out with stylish async and await.
 
 All I have to do now is sort out the temp colour ranges and stylings. Will do that tomorrow.
+
+
+# Day 52: July 19, 2017
+
+yes! [react weather app](https://cyclokitty.github.io/ckweather/) woo! The temp colours change depending on how cold, mild, or hot it is.
