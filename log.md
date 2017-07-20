@@ -505,3 +505,7 @@ Then there is the rest operator which is rather swish and sexy:
 var add = (...n) => n.reduce((accum, item) => accum + item, 0);
 
 ```
+
+# Day 53: July 20, 2017
+
+Just did some algos and studied closure. I slept in. 
