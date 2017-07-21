@@ -508,4 +508,10 @@ var add = (...n) => n.reduce((accum, item) => accum + item, 0);
 
 # Day 53: July 20, 2017
 
-Just did some algos and studied closure. I slept in. 
+Just did some algos and studied closure. I slept in.
+
+# Day 54: July 21, 2017
+
+Learned some Flexbox today. Looks handy and sometimes Bootstrap is too, too much. I'm enjoying flexbox. I will use it in projects.
+
+Also, worked on an algo. Still need to do more work on closures and the other interview questions. 
