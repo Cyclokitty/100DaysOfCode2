@@ -514,4 +514,10 @@ Just did some algos and studied closure. I slept in.
 
 Learned some Flexbox today. Looks handy and sometimes Bootstrap is too, too much. I'm enjoying flexbox. I will use it in projects.
 
-Also, worked on an algo. Still need to do more work on closures and the other interview questions. 
+Also, worked on an algo. Still need to do more work on closures and the other interview questions.
+
+# Day 55: July 22, 2017
+
+Finally found a .map that creates an array! It's rather sweet looking.
+
+Yeah, still gotta work on closure.
