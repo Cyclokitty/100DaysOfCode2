@@ -521,3 +521,11 @@ Also, worked on an algo. Still need to do more work on closures and the other in
 Finally found a .map that creates an array! It's rather sweet looking.
 
 Yeah, still gotta work on closure.
+
+# Day 56: July 26, 2017
+
+Took a few days off because it is summer. Summer is short. Gotta squeeze in as much summer livin' as possible!
+
+Did a couple of algos.
+
+Worked on the closure question. Needs more details. 
