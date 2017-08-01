@@ -528,4 +528,14 @@ Took a few days off because it is summer. Summer is short. Gotta squeeze in as m
 
 Did a couple of algos.
 
-Worked on the closure question. Needs more details. 
+Worked on the closure question. Needs more details.
+
+# Day 57: August 1, 2017
+
+Ok, end of my vacation.
+
+Saw an ad for an android app dev bootcamp so decided to apply for it. Need some Java chops and picked up a popular Udemy course to learn me some Java!
+
+And cleaning up my laptop because there isn't much room left on the hard drive.
+
+Woo! Success! Cleared out 30gb from my laptop hard drive!! 
