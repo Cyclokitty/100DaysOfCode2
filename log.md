@@ -538,4 +538,10 @@ Saw an ad for an android app dev bootcamp so decided to apply for it. Need some 
 
 And cleaning up my laptop because there isn't much room left on the hard drive.
 
-Woo! Success! Cleared out 30gb from my laptop hard drive!! 
+Woo! Success! Cleared out 30gb from my laptop hard drive!!
+
+# Day 58: August 2, 2017
+
+Totally thinking twice about going to that android dev bootcamp info/test day.
+
+But continued with Java and enjoying it muchly. Worked on conditionals and methods today. I tried solving a codewars algo in java but I'm missing something important. 
