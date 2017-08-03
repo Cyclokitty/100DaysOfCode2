@@ -544,4 +544,12 @@ Woo! Success! Cleared out 30gb from my laptop hard drive!!
 
 Totally thinking twice about going to that android dev bootcamp info/test day.
 
-But continued with Java and enjoying it muchly. Worked on conditionals and methods today. I tried solving a codewars algo in java but I'm missing something important. 
+But continued with Java and enjoying it muchly. Worked on conditionals and methods today. I tried solving a codewars algo in java but I'm missing something important.
+
+# Day 59: August 3, 2017
+
+More Java today. Did a neat method and worked on switch statements.
+
+Worked on a codewars algo. I'm behind on my js algos. As well, with the excitment of a new language, I've forgotten about React! Saturday, I'll split the day in half between React and java!
+
+Tomorrow, heading to my mom's so no coding. Maybe reading. Lots of napping!
